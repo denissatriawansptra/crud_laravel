@@ -14,6 +14,7 @@
 </head>
 <body>
 <h2>Daftar Tugas</h2>
+<a href="/todo/tambah">+ tmbah todo</a>
 <table>
     <tr>
         <th>#</th>
